@@ -1,27 +1,51 @@
-# 💫 About Me:
-🔭 I’m currently working on Data science about Biomedical engineering<br>👯 I’m looking to collaborate on Machine learning and Digital image processing<br>🤝 I’m looking for help with Python and Matlab<br>🌱 I’m currently learning signal processing and Deep learning<br>💬 Ask me about Python
+# 👨‍🔬 Mojtaba Khorsandi Ebrahimi
 
+### 🎓 Biomedical Engineer | Data Science & AI in Healthcare
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mojtaba.khorsandi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mojtabaa.khorsandii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mojtaba-khorsandi-3b14b1250) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mojtabakhorsandi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mojtabakhorsandi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabakhorsandi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mojtabakhorsandi&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mojtabakhorsandi&limit=5&theme=radical&combine_all_yearly_contributions=true)
+I am currently pursuing a Master’s in **Biomedical Engineering (Bioelectric specialization)** at the **University of Genoa, Italy**, with research interests at the intersection of **Artificial Intelligence, Clinical Data Analysis, and Digital Health**.  
+My current projects focus on **AI-driven clinical text analysis (EQUAL Candida Score extraction)** and **computational modeling for biomedical applications**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mojtabakhorsandi&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 Research Interests
+- Medical Data Science and Machine Learning  
+- Biomedical Signal and Image Processing  
+- Natural Language Processing for Clinical Texts  
+- Digital Health and Decision Support Systems  
+
+---
+
+### 🧩 Technical Skills
+**Programming & Tools:** Python, MATLAB, C++, Anaconda  
+**Libraries & Frameworks:** NumPy, Pandas, scikit-learn, PyTorch, TensorFlow  
+**Biomedical Tools:** Arduino, Signal Processing, Data Visualization  
+**Design & Documentation:** Canva, Markdown, Figma  
+
+---
+
+### 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mojtaba-khorsandi-3b14b1250)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/mojtabakhorsandi)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:M.khorsandi.ebrahimi@gmail.com)  
+
+---
+
+### 📊 GitHub Insights
+![](https://github-readme-stats.vercel.app/api?username=mojtabakhorsandi&show_icons=true&theme=transparent&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mojtabakhorsandi&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+### 🏆 Academic & Research Highlights
+- **AI-based Clinical Note Analysis:** Developing NLP pipelines for automatic extraction of infection-related clinical events.  
+- **Signal Processing Projects:** EEG and biomedical signal preprocessing and feature extraction.  
+- **Collaborations:** Open to interdisciplinary research in computational medicine and biomedical data analysis.
+
+---
+
+### 📫 Let's Collaborate
+I’m always open to discussions and collaborations on research projects related to **AI for healthcare**, **medical imaging**, and **data-driven clinical systems**.
+
+---
+
+_“Science and engineering meet where algorithms learn from life.”_
