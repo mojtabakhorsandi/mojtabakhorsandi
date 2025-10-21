@@ -41,8 +41,7 @@ I hold a **Master’s degree in Biomedical Engineering (Bioelectric specializati
 
 ---
 
-## 🏆 Highlights  
-- 🥇 Gold Medalist in National Swimming Competitions  
+## 🏆 Highlights   
 - 🎓 Presented paper at IEEE International Conference  
 - 👨‍🏫 Organized and taught courses on **MATLAB**, **Mathematics**, and **English** for biomedical students  
 - 🧩 Strong background in **Machine Learning applications in Medicine**  
